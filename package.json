@@ -1,0 +1,23 @@
+{
+  "name": "ajs-task-3.1.1-by-kiraradi",
+  "version": "1.0.0",
+  "description": "[Мое портфолио](https://kiraradi.github.io/Portfolio/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiraradi/ajs-task-3.1.1-by-kiraradi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiraradi/ajs-task-3.1.1-by-kiraradi/issues"
+  },
+  "homepage": "https://github.com/Kiraradi/ajs-task-3.1.1-by-kiraradi#readme",
+  "dependencies": {
+    "@kiraradi/ajs-task-3.1-by-kiraradi": "^1.0.0"
+  }
+}
